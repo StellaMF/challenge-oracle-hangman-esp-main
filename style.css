@@ -1,0 +1,82 @@
+
+.titulo {
+  padding:0px;
+  height: 50px;
+  width: 100%;
+  margin-top: 0pt;
+  margin-bottom: 5pt;
+  text-align: center;
+  color:white;
+  background-color: rgb(105, 172, 228);
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(105, 172, 228);
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 70px;
+  margin-right: 10px;
+  border-radius: 0.5em;
+  border: 3px solid rgba(0, 0, 0, 0.2);
+
+}
+
+#body {
+  background-color: rgb(118, 118, 122);
+  height: min-content;
+}
+
+.btn-2 {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(105, 172, 228);
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  border-radius: 0.5em;
+  border: 3px solid rgba(0, 0, 0, 0.2);
+  margin-left: 815pt;
+  
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.1em;
+  width: 30%;
+  height: 30px;
+  margin-left:645pt;
+  margin-bottom: 0pt;
+  margin-top: 0pt;
+  background-color:rgb(216, 231, 231);
+}
+
+#ahorcado {
+  background-color: greenyellow;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+    .rodapie{
+  
+      position: absolute important!;
+      width: 100%;
+      max-width: 100%;
+      padding: 1px 1px;
+      font-size: 20px;
+      text-align: center;
+      align-items: center;
+      bottom: 0px;
+      color: #0a0a0a;
+      background-color: rgb(118, 118, 122);
+    }
